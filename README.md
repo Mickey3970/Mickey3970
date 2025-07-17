@@ -22,13 +22,20 @@ I love solving problems, exploring new tools, and getting into the flow of creat
 🚀 Building a full-stack app (MERN stack)
 🔄 Replacing distractions with discipline
 🧠 Learning: UI/UX, System Design, and DSA problem solving
+```
+### 💻 Tech Stack
 
-🧰 Tech Stack
-| Language                                                                                   | Tools & Frameworks      | Productivity         |
-| ------------------------------------------------------------------------------------------ | ----------------------- | -------------------- |
-| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat\&logo=python)             | React, Node.js, Express | VS Code, Git         |
-| ![Java](https://img.shields.io/badge/-Java-05122A?style=flat\&logo=java)                   | MongoDB, Firebase       | Notion               |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript) | Next.js, Tailwind CSS   | Figma (basic), Linux |
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+
+**Frameworks & Tools**  
+React, Node.js, Express, MongoDB, Firebase, Next.js, Tailwind CSS
+
+**Productivity**  
+VS Code, Git, Obsidian, Notion, Figma (basic), Linux
+
 
 🤝 Let's Connect
 💌 📫 Email: [awesomehks@outlook.com](mailto:awesomehks@outlook.com) | [harsh2004mckv@gmail.com](mailto:harsh2004mckv@gmail.com)
@@ -36,7 +43,7 @@ I love solving problems, exploring new tools, and getting into the flow of creat
 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/harsh-kumar-singh-57392b27a) 
 
 🧠 Portfolio: Coming soon...
-
+```
 📌 Quote I Live By
 "Discipline equals freedom." – Jocko Willink
 Small wins every day beat motivation every once in a while.

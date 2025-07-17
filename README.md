@@ -31,9 +31,9 @@ I love solving problems, exploring new tools, and getting into the flow of creat
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript) | Next.js, Tailwind CSS   | Figma (basic), Linux |
 
 🤝 Let's Connect
-💌 Email: awesomehks@outlook.com | harsh2004mckv@gmail.com
+💌 📫 Email: [awesomehks@outlook.com](mailto:awesomehks@outlook.com) | [harsh2004mckv@gmail.com](mailto:harsh2004mckv@gmail.com)
 
-💼 LinkedIn: www.linkedin.com/in/harsh-kumar-singh-57392b27a 
+💼 LinkedIn: [LinkedIn](www.linkedin.com/in/harsh-kumar-singh-57392b27a) 
 
 🧠 Portfolio: Coming soon...
 

@@ -13,7 +13,8 @@ Name: Harsh
 Role: Computer Science Student
 Mindset: Growth > Perfection
 Personality: Curious, Reflective, Slightly Socially Awkward 😅
-I'm a CS student who’s deeply passionate about learning, coding, and building real things. I believe in constant self-improvement, breaking bad habits, and striving to become 1% better every single day.
+I'm a CS student who’s deeply passionate about learning, coding, and building real things. I believe in constant self-improvement, breaking bad habits,
+and striving to become 1% better every single day.
 
 I love solving problems, exploring new tools, and getting into the flow of creating something meaningful from scratch.
 

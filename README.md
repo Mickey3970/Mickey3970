@@ -32,8 +32,8 @@ I love solving problems, exploring new tools, and getting into the flow of creat
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshXCoder&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshXCoder&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mickey3970&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickey3970&layout=compact&theme=radical" height="180"/>
 </p>
 
 

@@ -29,14 +29,6 @@ I love solving problems, exploring new tools, and getting into the flow of creat
 | ![Java](https://img.shields.io/badge/-Java-05122A?style=flat\&logo=java)                   | MongoDB, Firebase       | Notion               |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript) | Next.js, Tailwind CSS   | Figma (basic), Linux |
 
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mickey3970&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickey3970&layout=compact&theme=radical" height="180"/>
-</p>
-
-
 🤝 Let's Connect
 💌 Email: awesomehks@outlook.com | harsh2004mckv@gmail.com
 
@@ -47,6 +39,15 @@ I love solving problems, exploring new tools, and getting into the flow of creat
 📌 Quote I Live By
 "Discipline equals freedom." – Jocko Willink
 Small wins every day beat motivation every once in a while.
+
+```
+🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mickey3970&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickey3970&layout=compact&theme=radical" height="180"/>
+</p>
+
 
 
 

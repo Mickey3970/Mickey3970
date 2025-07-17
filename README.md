@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- README.md for GitHub Profile -->
 
-<!--
-**Mickey3970/Mickey3970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh!;CS+Student+%7C+Code+Lover+%7C+Problem+Solver;Always+learning+%7C+Always+growing" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+```yaml
+Name: Harsh
+Role: Computer Science Student
+Mindset: Growth > Perfection
+Personality: Curious, Reflective, Slightly Socially Awkward 😅

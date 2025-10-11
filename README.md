@@ -43,7 +43,7 @@ VS Code, Git, Obsidian, Notion, Figma (basic), Linux
 
 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/harsh-kumar-singh-57392b27a) 
 
-🧠 Portfolio: Coming soon...
+🧠 Portfolio: [Portfolio](portfolio-olive-eight-71.vercel.app)
 ```
 📌 Quote I Live By
 "Discipline equals freedom." – Jocko Willink

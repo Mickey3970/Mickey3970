@@ -39,11 +39,10 @@ VS Code, Git, Obsidian, Notion, Figma (basic), Linux
 
 
 🤝 Let's Connect
-💌 📫 Email: [awesomehks@outlook.com](mailto:awesomehks@outlook.com) | [harsh2004mckv@gmail.com](mailto:harsh2004mckv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/harsh-kumar-singh-57392b27a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://portfolio-olive-eight-71.vercel.app)
+[![Email](https://img.shields.io/badge/Email-awesomehks@outlook.com-red?logo=gmail)](mailto:awesomehks@outlook.com)
 
-💼 LinkedIn: [LinkedIn](www.linkedin.com/in/harsh-kumar-singh-57392b27a) 
-
-🧠 Portfolio: [Portfolio](portfolio-olive-eight-71.vercel.app)
 ```
 📌 Quote I Live By
 "Discipline equals freedom." – Jocko Willink

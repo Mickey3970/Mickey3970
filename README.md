@@ -20,7 +20,7 @@ and striving to become 1% better every single day.
 I love solving problems, exploring new tools, and getting into the flow of creating something meaningful from scratch.
 
 🌱 What I'm Working On
-🚀 Building a full-stack app (MERN stack)
+🚀 Building a full-stack app 
 🔄 Replacing distractions with discipline
 🧠 Learning: UI/UX, System Design, and DSA problem solving
 ```
@@ -32,10 +32,10 @@ I love solving problems, exploring new tools, and getting into the flow of creat
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
 **Frameworks & Tools**  
-React, Node.js, Express, MongoDB, Firebase, Next.js, Tailwind CSS
+React, FastAPI, Postgresql, Firebase, Next.js, Tailwind CSS
 
 **Productivity**  
-VS Code, Git, Obsidian, Notion, Figma (basic), Linux
+VS Code, Git, Cursor, Claude, Figma (basic), Linux
 
 
 🤝 Let's Connect
@@ -49,13 +49,6 @@ VS Code, Git, Obsidian, Notion, Figma (basic), Linux
 Small wins every day beat motivation every once in a while.
 
 ```
-🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mickey3970&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickey3970&layout=compact&theme=radical" height="180"/>
-</p>
-
-
+=
 
 

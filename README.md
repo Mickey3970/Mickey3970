@@ -49,6 +49,6 @@ VS Code, Git, Cursor, Claude, Figma (basic), Linux
 Small wins every day beat motivation every once in a while.
 
 ```
-=
+
 
 
